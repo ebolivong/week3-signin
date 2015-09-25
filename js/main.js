@@ -12,5 +12,9 @@ $('.signin').on('click', function(e) {
 				$(this).removeClass('error');
 			})
 
+			// $('.modal').on('click', function(e){
+			// 	$(this).fadeOut(200, function(e){})
+			// })
+
 			});
 		});
